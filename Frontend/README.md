@@ -1,6 +1,6 @@
-# Todo List Application
+# Task Manager Application
 
-A simple and elegant Todo List application built with React and Tailwind CSS.
+A simple and elegant Task Manager application built with React and Tailwind CSS.
 
 ## Features
 
