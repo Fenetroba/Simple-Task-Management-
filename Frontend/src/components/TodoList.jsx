@@ -50,7 +50,7 @@ function TodoList() {
     <div className="min-h-screen bg-[#d4eac3] py-8 px-4 rounded-2xl">
       <FilterButtons currentFilter={filter} onFilterChange={setFilter} />
       <div className="max-w-md mx-auto bg-[#ab8030] shadow-amber-900 rounded-lg shadow-md p-6">
-        <h1 className="text-2xl font-bold text-gray-800 mb-6">Todo List</h1>
+        <h1 className="text-2xl font-bold text-gray-800 mb-6">Task Manager </h1>
         
         <AddTaskForm onAddTask={addTask} />
 
